@@ -1,4 +1,6 @@
-connectZ/:<br/>
+<h1> Directory structure </h1>
+
+<h2>connectZ</h2>/:<br/>
     |<br/>
     |<br/>
     |___ test_case/: directory containing a series of unit tests (all return codes + different game configurations).<br/>
